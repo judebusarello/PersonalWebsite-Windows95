@@ -14,3 +14,5 @@ This will create a build directory containing the files to be deployed
 
 This syncs the build files to your bucket. 
 The s3 bucket must be set to serve static websites.
+
+need html-loader for the resume import
